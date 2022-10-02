@@ -1,23 +1,20 @@
-### Hi there 👋
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello&#160;everyone\n%22);print(%22My&#160;name&#160;is&#160;evhill34\n%22)&center=true&size=27&width=550">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=500&center=true&vCenter=true&width=1000&lines=print(%22Hello+everyone%22);print(%22My+name+is+evehill34%22)">
   </a>
 </h1>
 
+
 <br>
 
-## 👌 About me
-
-
-
+# 👌 About me
+### :house_with_garden: Paris
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br><br>
 
 
-## 📈 My stats
+# 📈 My stats
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -35,7 +32,7 @@
 <br>
 
 
-## 🔥 Contributions
+# 🔥 Contributions
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=evehill34&theme=react&background=0d1117&border=666">
